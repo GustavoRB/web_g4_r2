@@ -1,0 +1,60 @@
+{
+  "model": "cidade",
+  "data": [
+    {
+      "_id": "58e0086fabf5bcc2af299261",
+      "nome": "Florianópolis",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086fabf5bcc2af299264",
+      "nome": "Jennings",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086fa6b3819530d880ed",
+      "nome": "Kempton",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086f11ee20481d0cac2f",
+      "nome": "Beason",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086fc859ab368fd07ec6",
+      "nome": "Tonopah",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086fc26196c5ee46f002",
+      "nome": "Riverton",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086ff1570617d238e4bd",
+      "nome": "Cazadero",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086f4fc650438cc73bc4",
+      "nome": "Sisquoc",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086f36fb04c200c3b315",
+      "nome": "Manila",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086fbe28d669b1128fcc",
+      "nome": "Bentonville",
+      "estado": "58e0069d95cfbf594d4495d8"
+    },
+    {
+      "_id": "58e0086f32c5ad4d1c94033a",
+      "nome": "Innsbrook",
+      "estado": "58e0069d95cfbf594d4495d8"
+    }
+  ]
+}

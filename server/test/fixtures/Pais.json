@@ -1,0 +1,55 @@
+{
+  "model": "pais",
+  "data": [
+    {
+      "_id": "58e005d3ffcf33507786fa2a",
+      "nome": "Brasil",
+      "sigla": "BR"
+    },
+    {
+      "_id": "58e005d3ffcf33507786fa2b",
+      "nome": "St. Helena",
+      "sigla": "HR"
+    },
+    {
+      "_id": "58e005d33740b33fcad199b9",
+      "nome": "Bosnia and Herzegovina",
+      "sigla": "IS"
+    },
+    {
+      "_id": "58e005d377ebf08e91258304",
+      "nome": "Wallis and Futuna Islands",
+      "sigla": "SO"
+    },
+    {
+      "_id": "58e005d30f871af6678ec298",
+      "nome": "Senegal",
+      "sigla": "AE"
+    },
+    {
+      "_id": "58e005d39ca0ecf794d53b16",
+      "nome": "Taiwan",
+      "sigla": "MU"
+    },
+    {
+      "_id": "58e005d36df31e885acf834b",
+      "nome": "Sri Lanka",
+      "sigla": "BY"
+    },
+    {
+      "_id": "58e005d3c7ba9adfdb6e5d8a",
+      "nome": "Bangladesh",
+      "sigla": "TZ"
+    },
+    {
+      "_id": "58e005d3de613d6aa20cb7b7",
+      "nome": "Fiji",
+      "sigla": "LI"
+    },
+    {
+      "_id": "58e005d3beb95440240359b1",
+      "nome": "Malawi",
+      "sigla": "TR"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "admin": "admin",
+  "cidade": {
+    "nome": {
+      "REQUIRED": "Cidade deve ter um nome."
+    },
+    "estado": {
+      "REQUIRED": "Cidade deve ter um estado."
+    }
+  },
+  "cliente": {
+    "cartoes": {
+      "cartao": {
+        "bandeira": {
+          "REQUIRED": "Cartão deve ter uma bandeira."
+        },
+        "numero": {
+          "REQUIRED": "Cartão deve ter um número"
+        },
+        "proprietario": {
+          "REQUIRED": "Cartão deve ter um proprietário"
+        }
+      }
+    }
+  },
+  "endereco": {
+    "cidade": {
+      "REQUIRED": "Endereço precisa ter uma cidade."
+    },
+    "logradouro": {
+      "REQUIRED": "Endereço precisa ter um logradouro"
+    },
+    "coordenadas": {
+      "REQUIRED": "Endereço precisa ter coordenadas",
+      "OUT_OF_RANGE": "Coordenadas deve ser no formato [longitude, latitude] | -180 <= longitude <= 180 e -90 <= latitude <= 90."
+    }
+  },
+  "estabelecimento": {
+    "cnpj": {
+      "REQUIRED": "Estabelecimento deve ter um CNPJ.",
+      "INVALID": "CNPJ em formato inválido."
+    },
+    "endereco": {
+      "REQUIRED": "Estabelecimento deve ter um endereço."
+    },
+    "numero": {
+      "REQUIRED": "Estabelecimento deve ter um número"
+    }
+  },
+  "alimentacao": {
+    "cardapio": {
+      "nome": {
+        "REQUIRED": "Categoria do cardápio deve ter um nome."
+      },
+      "produtos": {
+        "produto": {
+          "REQUIRED": "É necessário ter um produto para se adicionar ao cardápio."
+        }
+      }
+    }
+  },
+  "estado": {
+    "nome": {
+      "REQUIRED": "Estado deve ter um nome."
+    },
+    "sigla": {
+      "REQUIRED": "Estado deve ter uma sigla."
+    },
+    "pais": {
+      "REQUIRED": "Estado deve ter um país."
+    }
+  },
+  "idioma": {
+    "nome": {
+      "REQUIRED": "Idioma deve ter um nome."
+    }
+  },
+  "pais": {
+    "nome": {
+      "REQUIRED": "País deve ter um nome."
+    },
+    "sigla": {
+      "REQUIRED": "País deve ter uma sigla."
+    }
+  },
+  "pedido": {
+    "cliente": {
+      "REQUIRED": "Pedido deve pertencer a um cliente."
+    },
+    "agrupador": {
+      "REQUIRED": "Pedido deve ter um agrupador."
+    },
+    "valor": {
+      "REQUIRED": "Pedido deve ter um valor.",
+      "GREATER_THAN_ZERO": "Pedido não pode ter valor negativo."
+    },
+    "numero": {
+      "REQUIRED": "Pedido deve ter um número."
+    },
+    "estabelecimento": {
+      "REQUIRED": "Pedido deve pertencer a um estabelecimento."
+    },
+    "produtos": {
+      "REQUIRED": "Pedido deve conter no mínimo um produto.",
+      "valor": {
+        "REQUIRED": "Produto deve ter um valor.",
+        "GREATER_THAN_ZERO": "Produto não pode ter valor negativo."
+      },
+      "produto": {
+        "REQUIRED": "Produto deve conter referência a um produto."
+      },
+      "categorias_ingrediente": {
+        "nome": {
+          "REQUIRED": "Categoria de ingrediente deve ter um nome."
+        },
+        "ingredientes": {
+          "nome": {
+            "REQUIRED": "Ingrediente deve ter um nome."
+          },
+          "quantidade": {
+            "REQUIRED": "Deve ser especificado a quantidade selecionada de ingredientes",
+            "GREATER_THAN_ZERO": "Quantidade selecionada de ingredientes não pode ser negativa."
+          },
+          "valor_unitario": {
+            "GREATER_THAN_ZERO": "Valor unitário não pode ser negativo."
+          }
+        }
+      }
+    }
+  },
+  "produto": {
+  },
+  "tipo_comida": {
+    "tipo": {
+      "REQUIRED": "Tipo de comida deve especificar qual o tipo."
+    }
+  },
+  "usuario": {
+    "login": {
+      "botoes": {
+        "WANNA_LOGOUT": {
+          "SIM": {
+            "label": "Sim",
+            "funcao": "deslogar_outro_aparelho"
+          },
+          "NAO": {
+            "label": "Não",
+            "funcao": "fechar_modal"
+          }
+        },
+        "ANOTHER_ERRORS": {
+          "OK": {
+            "label": "OK",
+            "funcao": "fechar_modal"
+          }
+        }
+      },
+      "EMAIL_NOT_FOUND": "Email não encontrado.",
+      "WANNA_LOGOUT": "Usuario já logado, deseja deslogar do outro dispositivo?",
+      "PASSWORD_MATCH_FAILED": "Email e senh'a não batem.",
+      "REQUIRED": "Usuario deve ter um login"
+    },
+    "nome": {
+      "REQUIRED": "Usuário deve ter um nome."
+    },
+    "sobrenome": {
+      "REQUIRED": "Usuário deve ter um sobrenome."
+    },
+    "senha": {
+      "REQUIRED": "Usuário deve ter uma senha."
+    },
+    "idioma": {
+      "REQUIRED": "Usuário deve ter um idioma."
+    },
+    "email": {
+      "REQUIRED": "Usuário deve ter um email.",
+      "UNIQUE": "Email já cadastrado.",
+      "INVALID": "Email em formato inválido"
+    },
+    "datanascimento": {
+      "REQUIRED": "Usuário deve ter data de nascimento"
+    },
+    "regiao": {
+      "REQUIRED": "Usuário deve ter uma região"
+    },
+    "numerocelular": {
+      "REQUIRED": "Usuário deve ter um número de celular"
+    },
+    "DUPLICATED_KEY": "Já existe um usuario cadastrado com esse login"
+  },
+  "regiao": {
+    "nome": {
+      "REQUIRED": "Região deve ter um nome",
+      "UNIQUE": "Região com este nome já existe"
+    },
+    "cidade": {
+      "REQUIRED": "Região deve conter pelo menos uma cidade"
+    }
+  },
+  "bairro": {
+    "nome": {
+      "REQUIRED": "Bairro deve ter um nome"
+    },
+    "cidade": {
+      "REQUIRED": "Bairro deve ter uma cidade"
+    }
+  },
+  "logradouro": {
+    "nome": {
+      "REQUIRED": "Logradouro deve ter um nome"
+    },
+    "cep": {
+      "REQUIRED": "Logradouro deve ter um cep"
+    },
+    "bairro": {
+      "REQUIRED": "Logradouro deve referenciar um bairro"
+    }
+  },
+  "fonte": {
+    "nome": {
+      "REQUIRED": "Fonte deve ter um nome"
+    }
+  },
+  "relatorio_mes": {
+    "RELATORIO_JA_EXISTE": "Erro na criação de relatório. Relatório já existe",
+    "SEMANA_JA_EXISTE": "Erro na atualização de relatório. Semana já existe"
+  },
+  "mes": {
+    "MES_NAO_ACEITO": "Mes nao aceito",
+    "MES_AINDA_NAO_EXISTE": "Mes ainda nao existe"
+  },
+  "pesquisa": {
+    "SEM_PESQUISAS": "Sem pesquisas, favor corrigir o filtro",
+    "FONTE_NAO_ENCONTRADA": "Fonte nao encontrada de acordo com os valores do filtro",
+    "SEMANA_VAZIA": "Esta semana não possui dados",
+    "SEMANA_NAO_ENCONTRADA": "Erro no filtro do pesquisador. A semana atual ainda não existe.",
+    "PESQUISA_JA_CRIADA": "Erro na execução da rotina. A pesquisa já foi criada",
+    "SEMANA_JA_CRIADA": "Erro na execução da rotina. A semana já foi criada"
+  },
+  "botoes": {
+    "WANNA_LOGOUT": {
+      "SIM": {
+        "label": "Sim",
+        "funcao": "deslogar_outro_aparelho"
+      },
+      "NAO": {
+        "label": "Não",
+        "funcao": "fechar_modal"
+      }
+    },
+    "ANOTHER_ERRORS": {
+      "OK": {
+        "label": "OK",
+        "funcao": "fechar_modal"
+      }
+    }
+  }
+}

@@ -1,0 +1,4779 @@
+{
+  "model": "pesquisa",
+  "data": [
+    {
+      "_id": "594a78e6e47e19a1c1c2792a",
+      "ano": 2017,
+      "mes": 6,
+      "usuario": "58fa84bcfb3374281895fab6",
+      "fontes": [
+        {
+          "fonte": "593aeefeca8ba3e7f92827e6",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83d09f6267b0a93bcaa",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95b5d78ddbe3a3c8bf",
+      "fontes": [
+        {
+          "fonte": "593aeefe1feee10c122724bb",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83dcf9d72073967644c",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95ad00ada17a517410",
+      "fontes": [
+        {
+          "fonte": "593aeefed6c2680137fb283d",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83d6955db9f5e6ac311",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95cde23a9c1243960e",
+      "fontes": [
+        {
+          "fonte": "593aeefec49aa6f048aba5ab",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83d12d7e3bda4b3ce0a",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95ce85be7655c7df81",
+      "fontes": [
+        {
+          "fonte": "593aeefe5ae79d57984fcbe8",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83dba16f513f9a84b42",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95b6687669032b819c",
+      "fontes": [
+        {
+          "fonte": "593aeefe95f15dabb8e25973",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "5975d83dd01d90de3b4ae446",
+      "mes": 6,
+      "ano": 2017,
+      "usuario": "593add95e47a6476f968bb73",
+      "fontes": [
+        {
+          "fonte": "593aeefe2afe4f31420c7f9a",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 5,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919ba84b1e066c4d8eda",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "58fa84bcfb3374281895fab6",
+      "fontes": [
+        {
+          "fonte": "593aeefeca8ba3e7f92827e6",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919b56ab27873367a210",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95b5d78ddbe3a3c8bf",
+      "fontes": [
+        {
+          "fonte": "593aeefe1feee10c122724bb",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919b75ce589688796b4a",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95ad00ada17a517410",
+      "fontes": [
+        {
+          "fonte": "593aeefed6c2680137fb283d",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919bcdb5bdcce247cb78",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95cde23a9c1243960e",
+      "fontes": [
+        {
+          "fonte": "593aeefec49aa6f048aba5ab",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919b35e749c84325dbd5",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95ce85be7655c7df81",
+      "fontes": [
+        {
+          "fonte": "593aeefe5ae79d57984fcbe8",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919b24f22fa9109e864e",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95b6687669032b819c",
+      "fontes": [
+        {
+          "fonte": "593aeefe95f15dabb8e25973",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id": "597b919bde3ee8a7741ffce5",
+      "mes": 7,
+      "ano": 2017,
+      "usuario": "593add95e47a6476f968bb73",
+      "fontes": [
+        {
+          "fonte": "593aeefe2afe4f31420c7f9a",
+          "semanas": [
+            {
+              "numero": 1,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 4,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 2,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 1,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 3,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 2,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            },
+            {
+              "numero": 4,
+              "fechada": true,
+              "produtos": [
+                {
+                  "produto": "58e005d325ab05c3bd2f987d",
+                  "preco": 2,
+                  "espec1": "mililitri",
+                  "espec2": "litroso",
+                  "mudou_espec": "false"
+                }
+              ],
+              "semana_anterior": {
+                "numero": 3,
+                "fechada": true,
+                "produtos": [
+                  {
+                    "produto": "58e005d325ab05c3bd2f987d",
+                    "preco": 2,
+                    "espec1": "mililitri",
+                    "espec2": "litroso",
+                    "mudou_espec": "false"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "598064f48edd8e239c940340",
+      "updatedAt" : "2017-08-25T10:23:46.888Z",
+      "createdAt" : "2017-08-01T11:24:36.715Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95b6687669032b819c",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefe95f15dabb8e25973",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c94033e",
+      "updatedAt" : "2017-08-25T10:23:46.882Z",
+      "createdAt" : "2017-08-01T11:24:36.707Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95cde23a9c1243960e",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefec49aa6f048aba5ab",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c940344",
+      "updatedAt" : "2017-08-25T10:23:46.913Z",
+      "createdAt" : "2017-08-01T11:24:36.721Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "58fa84bcfb3374281895fab6",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefeca8ba3e7f92827e6",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "peido teste 1",
+                  "espec2" : "peidão testão",
+                  "promocao" : false,
+                  "mudou_espec" : true
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "preco" : 0,
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "preco" : 0,
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "preco" : 0,
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "preco" : 0,
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "preco" : 0,
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "preco" : 0,
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "preco" : 0,
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "preco" : 0,
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "preco" : 0,
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "peido teste 3",
+                    "espec2" : "peidão testão",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "peido teste 2",
+                  "espec2" : "peidão testão",
+                  "promocao" : false,
+                  "mudou_espec" : true
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "preco" : 0,
+                  "espec1" : "zuei22",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : true
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "preco" : 0,
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "preco" : 0,
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "preco" : 0,
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "preco" : 0,
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "preco" : 0,
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "preco" : 0,
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "preco" : 0,
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "preco" : 0,
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "peido teste 1",
+                    "espec2" : "peidão testão",
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "preco" : 0,
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "preco" : 0,
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "preco" : 0,
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "preco" : 0,
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "preco" : 0,
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "preco" : 0,
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "preco" : 0,
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste 3",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : true
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : true
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "peido teste 2",
+                    "espec2" : "peidão testão",
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "preco" : 0,
+                    "espec1" : "zuei22",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "preco" : 0,
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "preco" : 0,
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "preco" : 0,
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "preco" : 0,
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "preco" : 0,
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "preco" : 0,
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "preco" : 0,
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste 3",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "peido teste 3",
+                    "espec2" : "peidão testão",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : true
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        },
+        {
+          "fonte" : "593aeefe95f15dabb8e25973",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "qualquer",
+                  "espec2" : "coisa",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "show",
+                    "espec2" : "debola",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "massa",
+                    "espec2" : "maneiro",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c94033f",
+      "updatedAt" : "2017-08-25T10:23:46.958Z",
+      "createdAt" : "2017-08-01T11:24:36.713Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95e47a6476f968bb73",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefe2afe4f31420c7f9a",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c940342",
+      "updatedAt" : "2017-08-25T10:23:46.885Z",
+      "createdAt" : "2017-08-01T11:24:36.716Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95ce85be7655c7df81",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefe5ae79d57984fcbe8",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c940343",
+      "updatedAt" : "2017-08-25T10:23:46.943Z",
+      "createdAt" : "2017-08-01T11:24:36.717Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95b5d78ddbe3a3c8bf",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefe1feee10c122724bb",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        },
+        {
+          "fonte" : "593aeefeca8ba3e7f92827e6",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "peido teste",
+                  "espec2" : "peidão testão",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "preco" : 0,
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "preco" : 0,
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "preco" : 0,
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "preco" : 0,
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "preco" : 0,
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "preco" : 0,
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "preco" : 0,
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "preco" : 0,
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "preco" : 0,
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "peido teste",
+                    "espec2" : "peidão testão",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "preco" : 0,
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "preco" : 0,
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "preco" : 0,
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "preco" : 0,
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "preco" : 0,
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "preco" : 0,
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "preco" : 0,
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "peido teste",
+                    "espec2" : "peidão testão",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "preco" : 0,
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "preco" : 0,
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "preco" : 0,
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "preco" : 0,
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "preco" : 0,
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "preco" : 0,
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "preco" : 0,
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "peido teste",
+                    "espec2" : "peidão testão",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "preco" : 0,
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "preco" : 0,
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "preco" : 0,
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "preco" : 0,
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "preco" : 0,
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "preco" : 0,
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "preco" : 0,
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "preco" : 0,
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "peido teste",
+                    "espec2" : "peidão testão",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "598064f48edd8e239c940341",
+      "updatedAt" : "2017-08-25T10:23:46.878Z",
+      "createdAt" : "2017-08-01T11:24:36.715Z",
+      "ano" : 2017,
+      "mes" : 8,
+      "usuario" : "593add95ad00ada17a517410",
+      "__v" : 1,
+      "fontes" : [
+        {
+          "fonte" : "593aeefed6c2680137fb283d",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "preco" : 0,
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 2,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 2,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 1,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "preco" : 0,
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 3,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 2,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            },
+            {
+              "numero" : 4,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 3,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : true
+            }
+          ]
+        }
+      ],
+      "fechada" : true
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca39",
+      "updatedAt" : "2017-08-28T12:51:01.797Z",
+      "createdAt" : "2017-08-28T12:51:01.797Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95ad00ada17a517410",
+      "fontes" : [
+        {
+          "fonte" : "593aeefed6c2680137fb283d",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3a",
+      "updatedAt" : "2017-08-28T12:51:01.801Z",
+      "createdAt" : "2017-08-28T12:51:01.801Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95b5d78ddbe3a3c8bf",
+      "fontes" : [
+        {
+          "fonte" : "593aeefe1feee10c122724bb",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        },
+        {
+          "fonte" : "593aeefeca8ba3e7f92827e6",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste 3",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "peido teste 3",
+                    "espec2" : "peidão testão",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3b",
+      "updatedAt" : "2017-08-28T12:51:01.802Z",
+      "createdAt" : "2017-08-28T12:51:01.802Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95e47a6476f968bb73",
+      "fontes" : [
+        {
+          "fonte" : "593aeefe2afe4f31420c7f9a",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3c",
+      "updatedAt" : "2017-08-28T12:51:01.802Z",
+      "createdAt" : "2017-08-28T12:51:01.802Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95cde23a9c1243960e",
+      "fontes" : [
+        {
+          "fonte" : "593aeefec49aa6f048aba5ab",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3d",
+      "updatedAt" : "2017-08-28T12:51:01.803Z",
+      "createdAt" : "2017-08-28T12:51:01.803Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "58fa84bcfb3374281895fab6",
+      "fontes" : [
+        {
+          "fonte" : "593aeefeca8ba3e7f92827e6",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "peido teste 3",
+                  "espec2" : "peidão testão",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc79acf71697f6f855",
+                  "espec1" : "zuei",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc96db2a0794b014e6",
+                  "espec1" : "haha",
+                  "espec2" : "hehe",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc3d3aced47eae7b50",
+                  "espec1" : "zaza",
+                  "espec2" : "zoom",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce9f14f8d987abc0f",
+                  "espec1" : "fanta",
+                  "espec2" : "refri",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcab10568729c7ab8a",
+                  "espec1" : "lololo",
+                  "espec2" : "lalala",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc9ecffbf24fa55495",
+                  "espec1" : "spinner",
+                  "espec2" : "legal",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dcdde6e840ae4e4ac3",
+                  "espec1" : "zuei",
+                  "espec2" : "zoado",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dce1ea562ce3132379",
+                  "espec1" : "kkkkkkkkkk",
+                  "espec2" : "jajajajaja",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                },
+                {
+                  "produto" : "593ae1dc89341af1049ac9ec",
+                  "espec1" : "zuzu",
+                  "espec2" : "eiei",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "peido teste 3",
+                    "espec2" : "peidão testão",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc79acf71697f6f855",
+                    "espec1" : "zuei",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc96db2a0794b014e6",
+                    "espec1" : "haha",
+                    "espec2" : "hehe",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc3d3aced47eae7b50",
+                    "espec1" : "zaza",
+                    "espec2" : "zoom",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce9f14f8d987abc0f",
+                    "espec1" : "fanta",
+                    "espec2" : "refri",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcab10568729c7ab8a",
+                    "espec1" : "lololo",
+                    "espec2" : "lalala",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc9ecffbf24fa55495",
+                    "espec1" : "spinner",
+                    "espec2" : "legal",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dcdde6e840ae4e4ac3",
+                    "espec1" : "zuei",
+                    "espec2" : "zoado",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dce1ea562ce3132379",
+                    "espec1" : "kkkkkkkkkk",
+                    "espec2" : "jajajajaja",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  },
+                  {
+                    "produto" : "593ae1dc89341af1049ac9ec",
+                    "espec1" : "zuzu",
+                    "espec2" : "eiei",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        },
+        {
+          "fonte" : "593aeefe95f15dabb8e25973",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3e",
+      "updatedAt" : "2017-08-28T12:51:01.804Z",
+      "createdAt" : "2017-08-28T12:51:01.804Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95ce85be7655c7df81",
+      "fontes" : [
+        {
+          "fonte" : "593aeefe5ae79d57984fcbe8",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "mililitri",
+                  "espec2" : "litroso",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "mililitri",
+                    "espec2" : "litroso",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    },
+    {
+      "_id" : "59a411b565046b115ce2ca3f",
+      "updatedAt" : "2017-08-28T12:51:01.804Z",
+      "createdAt" : "2017-08-28T12:51:01.804Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "usuario" : "593add95b6687669032b819c",
+      "fontes" : [
+        {
+          "fonte" : "593aeefe95f15dabb8e25973",
+          "semanas" : [
+            {
+              "numero" : 1,
+              "produtos" : [
+                {
+                  "produto" : "58e005d325ab05c3bd2f987d",
+                  "espec1" : "vamo",
+                  "espec2" : "quevamo",
+                  "preco" : 0,
+                  "promocao" : false,
+                  "mudou_espec" : false
+                }
+              ],
+              "semana_anterior" : {
+                "numero" : 4,
+                "fechada" : true,
+                "produtos" : [
+                  {
+                    "produto" : "58e005d325ab05c3bd2f987d",
+                    "espec1" : "vamo",
+                    "espec2" : "quevamo",
+                    "preco" : 0,
+                    "promocao" : false,
+                    "mudou_espec" : false
+                  }
+                ]
+              },
+              "fechada" : false
+            }
+          ]
+        }
+      ],
+      "fechada" : false,
+      "__v" : 0
+    }
+
+
+
+  ]
+}

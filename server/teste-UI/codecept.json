@@ -1,0 +1,20 @@
+{
+  "tests": "./*_test.js",
+  "timeout": 10000,
+  "output": "./output",
+  "helpers": {
+    "Protractor": {
+      "url": "http://localhost:1337",
+      "driver": "hosted",
+      "browser": "chrome",
+      "rootElement": "body",
+      "windowSize": "1280x720"
+    }
+  },
+  "include": {
+    "I": "./steps_file.js"
+  },
+  "bootstrap": "./beforeTests.js",
+  "mocha": {},
+  "name": "teste-UI"
+}

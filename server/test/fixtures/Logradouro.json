@@ -1,0 +1,12 @@
+{
+  "model": "logradouro",
+  "data": [
+    {
+      "_id": "58e005d3ffcf33507786fa2c",
+      "nome": "Rua tenente Olimpio Costa",
+      "cep": 88090080,
+      "bairro": "58e005d3ffcf33507786fa2d"
+    }
+
+  ]
+}

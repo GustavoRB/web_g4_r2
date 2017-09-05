@@ -1,0 +1,49 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-offset-2 col-md-8 container-fabricante">
+
+            <div class="novo-produto">
+
+                <span class="titulo"><b>{{fornecedor_nome}}</b></span>
+
+                <button class="btn btn-success" ng-click="salvar()">SALVAR</button>
+                <button class="btn btn-warning" ng-click="novo_produto()">NOVO PRODUTO</button>
+            </div>
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Produto</th>
+                        <th>Preço</th>
+                        <th class="text-center">Remover</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="produto in produtos_fabricante track by $index">
+                        <td>
+                            <div class="form-group">
+                                <select class="form-control" ng-model="produto.nome">
+                                    <option>Produto 1</option>
+                                    <option>Produto 2</option>
+                                    <option>Produto 3</option>
+                                    <option>Produto 4</option>
+                                </select>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="form-group">
+                                <input type="number" class="form-control" ng-model="produto.custo">
+                            </div>
+                        </td>
+                        <td align="center">
+                            <button class="btn btn-danger" ng-click="remove_produto($index)">
+                                <i class="glyphicon glyphicon-remove"></i>
+                            </button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

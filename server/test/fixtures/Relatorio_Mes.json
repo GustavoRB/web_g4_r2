@@ -1,0 +1,647 @@
+{
+  "model": "relatorio_mes",
+  "data": [
+    {
+      "_id": "592ec1af68d1df19c07c9656",
+      "ano": 2017,
+      "mes": 8,
+      "ponderador_total": 0,
+      "inflacao": 0,
+      "produtos": [
+        {
+          "produto": "58e005d325ab05c3bd2f987d",
+          "variacao": 0,
+          "fontes": [
+            {
+              "fonte": "593aeefeca8ba3e7f92827e6",
+              "semanas": [
+                {
+                  "semana_anterior": {
+                    "numero": 4,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 1,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 1,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 2,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 2,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 3,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 3,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 4,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                }
+              ]
+            },
+            {
+              "fonte": "593aeefe95f15dabb8e25973",
+              "semanas": [
+                {
+                  "semana_anterior": {
+                    "numero": 4,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 1,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 1,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 2,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 2,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 3,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 3,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 4,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "produto": "593ae1dcdde6e840ae4e4ac3",
+          "variacao": 0,
+          "fontes": [
+            {
+              "fonte": "593aeefeca8ba3e7f92827e6",
+              "semanas": [
+                {
+                  "semana_anterior": {
+                    "numero": 4,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 1,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 1,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 2,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 2,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 3,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 3,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 4,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                }
+              ]
+            },
+            {
+              "fonte": "593aeefe95f15dabb8e25973",
+              "semanas": [
+                {
+                  "semana_anterior": {
+                    "numero": 4,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 1,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 1,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 2,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 2,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 3,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                },
+                {
+                  "semana_anterior": {
+                    "numero": 3,
+                    "preco": 2
+                  },
+                  "semana_atual": {
+                    "numero": 4,
+                    "preco": 2,
+                    "mudou_espec": false
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_id" : "59ae89932d03ab1ea86853a5",
+      "updatedAt" : "2017-09-05T11:25:07.709Z",
+      "createdAt" : "2017-09-05T11:25:07.709Z",
+      "ano" : 2017,
+      "mes" : 9,
+      "produtos" : [
+        {
+          "produto" : "593ae1dc96db2a0794b014e6",
+          "_id" : "59ae89932d03ab1ea86853ce",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853cf",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc3d3aced47eae7b50",
+          "_id" : "59ae89932d03ab1ea86853cc",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853cd",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcdde6e840ae4e4ac3",
+          "_id" : "59ae89932d03ab1ea86853c9",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853cb",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 4,
+                    "preco" : 2
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefe95f15dabb8e25973",
+              "_id" : "59ae89932d03ab1ea86853ca",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 4,
+                    "preco" : 2
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "58e005d325ab05c3bd2f987d",
+          "_id" : "59ae89932d03ab1ea86853c1",
+          "fontes" : [
+            {
+              "fonte" : "593aeefec49aa6f048aba5ab",
+              "_id" : "59ae89932d03ab1ea86853c8",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefe5ae79d57984fcbe8",
+              "_id" : "59ae89932d03ab1ea86853c7",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853c6",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 4,
+                    "preco" : 2
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefe95f15dabb8e25973",
+              "_id" : "59ae89932d03ab1ea86853c5",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 4,
+                    "preco" : 2
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefe1feee10c122724bb",
+              "_id" : "59ae89932d03ab1ea86853c4",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefed6c2680137fb283d",
+              "_id" : "59ae89932d03ab1ea86853c3",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            },
+            {
+              "fonte" : "593aeefe2afe4f31420c7f9a",
+              "_id" : "59ae89932d03ab1ea86853c2",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dce9f14f8d987abc0f",
+          "_id" : "59ae89932d03ab1ea86853bf",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853c0",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dce1ea562ce3132379",
+          "_id" : "59ae89932d03ab1ea86853bd",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853be",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc9ecffbf24fa55495",
+          "_id" : "59ae89932d03ab1ea86853bb",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853bc",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcb32a77fd365467c9",
+          "_id" : "59ae89932d03ab1ea86853ba",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc64a66376bb5d1b27",
+          "_id" : "59ae89932d03ab1ea86853b9",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc17fc1d4337abd865",
+          "_id" : "59ae89932d03ab1ea86853b8",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc14d8f59a103ae3f8",
+          "_id" : "59ae89932d03ab1ea86853b7",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc89341af1049ac9ec",
+          "_id" : "59ae89932d03ab1ea86853b5",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853b6",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc79acf71697f6f855",
+          "_id" : "59ae89932d03ab1ea86853b3",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853b4",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcb8f3b139cdcfee04",
+          "_id" : "59ae89932d03ab1ea86853b2",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dca655343696d9ac08",
+          "_id" : "59ae89932d03ab1ea86853b1",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcab10568729c7ab8a",
+          "_id" : "59ae89932d03ab1ea86853af",
+          "fontes" : [
+            {
+              "fonte" : "593aeefeca8ba3e7f92827e6",
+              "_id" : "59ae89932d03ab1ea86853b0",
+              "semanas" : [
+                {
+                  "semana_atual" : {
+                    "numero" : 1
+                  },
+                  "semana_anterior" : {
+                    "numero" : 0,
+                    "preco" : 0
+                  }
+                }
+              ]
+            }
+          ],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcc197b1cccfea0125",
+          "_id" : "59ae89932d03ab1ea86853ae",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc06d3ab200a41ff23",
+          "_id" : "59ae89932d03ab1ea86853ad",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc17f1c71dc8f37f11",
+          "_id" : "59ae89932d03ab1ea86853ac",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcc372af2368205d45",
+          "_id" : "59ae89932d03ab1ea86853ab",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc6fa8a5b2b9c03b44",
+          "_id" : "59ae89932d03ab1ea86853aa",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcb2427b6c8dbed435",
+          "_id" : "59ae89932d03ab1ea86853a9",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc6b10b0fcd547cd18",
+          "_id" : "59ae89932d03ab1ea86853a8",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dcb38a4ca06d99da94",
+          "_id" : "59ae89932d03ab1ea86853a7",
+          "fontes" : [],
+          "ipcs" : []
+        },
+        {
+          "produto" : "593ae1dc9502e761bb9d281c",
+          "_id" : "59ae89932d03ab1ea86853a6",
+          "fontes" : [],
+          "ipcs" : []
+        }
+      ],
+      "__v" : 0
+    }
+  ]
+}

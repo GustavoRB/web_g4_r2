@@ -1,0 +1,26 @@
+body {
+    background-color: azure !important;
+}
+
+.container-fabricante {
+    margin: 5em 0;
+    background: white;
+    border: 2px solid black;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+div.novo-produto {
+    margin: 3em .5em;
+    text-align: right;
+}
+
+.titulo {
+    float: left;
+    font-size: 1.8em;
+}

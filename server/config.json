@@ -1,0 +1,19 @@
+{
+  "db": {
+    "mongodb": {
+      "local":"localhost",
+      "nome":"custo_de_vida"
+    }
+  },
+  "server": {
+    "domain": "",
+    "porta": 1337,
+    "images": "",
+    "socketio": {}
+  },
+  "eventConfig": {
+    "wildcard": true,
+    "newListener": true,
+    "maxListeners": 2000
+  }
+}

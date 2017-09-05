@@ -1,0 +1,75 @@
+{
+  "name": "EsqueLabTic",
+  "version": "0.2.0",
+  "description": "É o padrão de pastas e arquivos utilizadas no LabTIC.",
+  "main": "index.js",
+  "scripts": {
+    "install": "node install.js",
+    "start": "node index.js",
+    "test": "mocha",
+    "test-gui": "codeceptjs run teste-UI --steps",
+    "generate-docs": "jsdoc --configure .jsdoc.json --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omiguel/esqueleto2.0.git"
+  },
+  "keywords": [
+    "inicio",
+    "esqueleto",
+    "evento",
+    "socket",
+    "LabTIC"
+  ],
+  "author": "Osvaldo Miguel Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omiguel/esqueleto2.0/issues"
+  },
+  "homepage": "https://github.com/omiguel/esqueleto2.0",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "body-parser": "^1.16.0",
+    "clone": "^1.0.2",
+    "connect-busboy": "0.0.2",
+    "cors": "^2.8.1",
+    "data2xml": "^1.2.5",
+    "datauri": "^1.0.5",
+    "eventemitter2": "^0.4.14",
+    "express": "^4.13.4",
+    "http-status-codes": "^1.1.6",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-json": "^2.0.2",
+    "koa-router": "^5.4.0",
+    "koa-static": "^3.0.0",
+    "koa-static-server": "^1.0.0",
+    "koa-views": "^6.0.1",
+    "mongoose": "^4.10.7",
+    "mongoose-deep-populate": "^3.0.0",
+    "node": "0.0.0",
+    "node-uuid": "^1.4.7",
+    "sjcl": "^1.0.3",
+    "socket.io": "^1.4.5",
+    "superagent-jsonp": "^0.1.1",
+    "superagent-xml2jsparser": "^0.1.1",
+    "xlsx2json": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "chai-json-schema": "^1.2.0",
+    "codeceptjs": "^0.3.5",
+    "docdash": "^0.4.0",
+    "jsdoc": "^3.4.0",
+    "mocha": "^2.5.3",
+    "protractor": "^3.3.0",
+    "socket.io-client": "^1.7.3"
+  },
+  "jscsConfig": {
+    "preset": "node-style-guide",
+    "maxErrors": -1,
+    "validateLineBreaks": false,
+    "disallowTrailingWhitespace": false
+  }
+}
