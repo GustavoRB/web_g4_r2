@@ -6,8 +6,7 @@ app.controller('fabricanteController', [
   '$scope',
   function ($scope) {
 
-    $scope.fornecedor_nome = 'Fornecedor 1'
-
+    $scope.fornecedor_nome = 'Fornecedor 1';
     $scope.produtos_fabricante = [{
       nome: 'Produto 1',
       custo: 23
@@ -24,7 +23,7 @@ app.controller('fabricanteController', [
      */
     $scope.novo_produto = function () {
       $scope.produtos_fabricante.push({
-        nome: '',
+        nome: 'Produto 1',
         custo: null
       });
     };

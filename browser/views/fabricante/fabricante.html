@@ -6,8 +6,14 @@
 
                 <span class="titulo"><b>{{fornecedor_nome}}</b></span>
 
-                <button class="btn btn-success" ng-click="salvar()">SALVAR</button>
-                <button class="btn btn-warning" ng-click="novo_produto()">NOVO PRODUTO</button>
+                <button class="btn btn-success" ng-click="salvar()">
+                    <i class="glyphicon glyphicon-ok-circle"></i>
+                    SALVAR
+                </button>
+                <button class="btn btn-warning" ng-click="novo_produto()">
+                    <i class="glyphicon glyphicon-plus"></i>
+                    NOVO PRODUTO
+                </button>
             </div>
 
             <table class="table table-hover">
@@ -31,8 +37,14 @@
                             </div>
                         </td>
                         <td>
-                            <div class="form-group">
-                                <input type="number" class="form-control" ng-model="produto.custo">
+                            <div class="input-group">
+                                <span class="input-group-addon">R$</span>
+                                <input type="number"
+                                       class="form-control"
+                                       step="0.01"
+                                       min="0"
+                                       placeholder="0.00"
+                                       ng-model="produto.custo">
                             </div>
                         </td>
                         <td align="center">

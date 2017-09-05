@@ -3,7 +3,7 @@ body {
 }
 
 .container-fabricante {
-    margin: 5em 0;
+    margin: 5em .5em;
     background: white;
     border: 2px solid black;
     -webkit-border-radius: 10px;
