@@ -1,3 +1,4 @@
+const QueryObject = require('./util_handler/objeto_pesquisa');
 const Basic_handler = require('./basic_handler');
 const messages = require('../util/messages.json').usuario.login;
 
@@ -33,6 +34,23 @@ class Open_handler extends Basic_handler {
       return ret;
     }
 
+  }
+
+  async get_usuarios(){
+    let select = 'nome produtos';
+    let ret = await this.emitServer('db.usuario.read', new QueryObject(null, select));
+    return {
+      success: true,
+      data: ret.data.success,
+    };
+  }
+
+  async fabricante_create(dado){
+    let ret = await this.emitServer('db.usuario.create', dado);
+    return {
+      success: true,
+      data: ret.data.success,
+    };
   }
 
 }

@@ -12,6 +12,7 @@ class login_restiful extends BasicRestful {
     this.rotas = {
       get: {
         '/open/login': this.login.bind(this),
+        '/open/fabricantes': this.get_usuarios.bind(this),
       },
     };
 
@@ -37,6 +38,11 @@ class login_restiful extends BasicRestful {
     let query = req.query;
     let ret = await this.handler.login(query.ref);
 
+    return res.status(httpStatus.OK).send(ret);
+  }
+
+  async get_usuarios(req, res){
+    let ret = await this.handler.get_usuarios();
     return res.status(httpStatus.OK).send(ret);
   }
 

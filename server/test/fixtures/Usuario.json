@@ -3,114 +3,25 @@
   "data": [
     {
       "_id": "593add95b5d78ddbe3a3c8bf",
-      "nome": "Haynes",
-      "login": "haynes",
-      "senha": "haynes",
-      "idioma": "593add953704a71ccadcff86",
-      "logado": false,
-      "numerocelular": "(817) 435-2557",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add95a9a2d64c524fc116",
-      "fontes": [
+      "nome": "Gustavo Roesler Brillinger",
+      "login": "gustavo",
+      "senha": "gustavo",
+      "produtos": [
         {
-          "fonte": "593aeefe1feee10c122724bb"
+          "nome": "produto A",
+          "custo": 12.15
         },
         {
-          "fonte": "593aeefeca8ba3e7f92827e6"
+          "nome": "produto B",
+          "custo": 15.97
         }
       ]
     },
     {
       "_id": "593add95ad00ada17a517410",
-      "nome": "Miller",
-      "login": "miller",
-      "senha": "miller",
-      "idioma": "593add95a2f9c27f24eea795",
-      "logado": false,
-      "numerocelular": "(859) 463-3173",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add954d5df597afded698",
-      "fontes": [
-        {
-          "fonte": "593aeefed6c2680137fb283d"
-        }
-      ]
-    },
-    {
-      "_id": "593add95cde23a9c1243960e",
-      "nome": "Kent",
-      "login": "kent",
-      "senha": "kent",
-      "idioma": "593add95ad799d9fa864828b",
-      "logado": false,
-      "numerocelular": "(962) 443-3459",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add954ae68745bbc54be8",
-      "fontes": [
-        {
-          "fonte": "593aeefec49aa6f048aba5ab"
-        }
-      ]
-    },
-    {
-      "_id": "593add95ce85be7655c7df81",
-      "nome": "Woodard",
-      "login": "woodard",
-      "senha": "woodard",
-      "idioma": "593add95f012782f2bdf2e51",
-      "logado": false,
-      "numerocelular": "(954) 423-3610",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add95fef5545176f236d6",
-      "fontes": [
-        {
-          "fonte": "593aeefe5ae79d57984fcbe8"
-        }
-      ]
-    },
-    {
-      "_id": "593add95b6687669032b819c",
-      "nome": "Murphy",
-      "login": "murphy",
-      "senha": "murphy",
-      "idioma": "593add9532b21be74eebbc58",
-      "logado": false,
-      "numerocelular": "(890) 598-3142",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add95e2df578fc9d292a3",
-      "fontes": [
-        {
-          "fonte": "593aeefe95f15dabb8e25973"
-        }
-      ]
-    },
-    {
-      "_id": "593add95e47a6476f968bb73",
-      "nome": "Mccormick",
-      "login": "mccormick",
-      "senha": "mccormick",
-      "idioma": "593add956d50610768240844",
-      "logado": false,
-      "numerocelular": "(807) 576-2072",
-      "picture": "http://placehold.it/32x32",
-      "datanascimento": "Fri Jun 09 2017 17:40:37 GMT+0000 (UTC)",
-      "ativo": true,
-      "regiao": "593add9511f24e73a4ac39cf",
-      "fontes": [
-        {
-          "fonte": "593aeefe2afe4f31420c7f9a"
-        }
-      ]
+      "nome": "Outro Fabricante",
+      "login": "outro",
+      "senha": "outro"
     }
   ]
 }

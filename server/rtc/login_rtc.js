@@ -1,7 +1,6 @@
 const Basico = require('./basico_rtc');
 const Open_handler = require('../handlers/open_usuario_handler');
 const Rtc_admin = require('./principal/rtc_admin');
-const Rtc_pesquisador = require('./principal/rtc_pesquisador');
 
 class login_rtc extends Basico {
   /**
@@ -14,11 +13,11 @@ class login_rtc extends Basico {
 
     this.rtc_clientes = {
       admin: Rtc_admin,
-      pesquisador: Rtc_pesquisador
     };
 
     this.interfaceListeners = {
       'logar': this.logar.bind(this),
+      'fabricante_create': this.fabricante_create.bind(this),
     };
 
     this.wiring();
@@ -58,12 +57,14 @@ class login_rtc extends Basico {
    * @param dado
    */
   trocar_rtc(dado) {
-
-    let rtc_tipo = dado.dados.data[0].hasOwnProperty('tipo')
-      ? dado.dados.data[0].tipo : 'pesquisador';
-    new this.rtc_clientes[rtc_tipo](this.config, dado, this);
-
+    new this.rtc_clientes.admin(this.config, dado, this);
   }
+
+  async fabricante_create(msg){
+    msg.dados = await this.handler.fabricante_create(msg.dados);
+    this.emitprainterface(msg);
+  }
+
 }
 
 module.exports = login_rtc;

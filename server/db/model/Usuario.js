@@ -42,43 +42,19 @@ let schema = Mongoose.Schema({
     type: types.String,
     required: [true, messages.senha.REQUIRED],
   },
-  idioma: {
-    type: types.ObjectId,
-    ref: 'idioma'
-    // required: [true, messages.idioma.REQUIRED]
-  },
-  logado: {
-    type: types.Boolean,
-    default: false
-  },
-  numerocelular: {
-    index: {unique: true},
-    type: types.String,
-    required: [true, messages.numerocelular.REQUIRED]
-  },
-  foto: {
-    type: types.String
-  },
-  datanascimento: {
-    type: types.Date,
-    //TODO uncomment after tests
-    //required: [true, messages.datanascimento.REQUIRED]
-  },
-  ativo: {
-    type: types.Boolean,
-    default: true,
-  },
-  regiao: {
-    type: types.ObjectId,
-    ref: 'Regiao'
-  },
-  fontes: [{
-    _id: false,
-    fonte: {
-      type: types.ObjectId,
-      ref: 'Fonte'
-    }
-  }]
+  produtos: {
+    type: [{
+      nome: {
+        type: types.String,
+        required: [true, "É obrigatório o nome do produto."],
+      },
+      custo: {
+        type: types.Number,
+        required: [true, "É obrigatório ter custo no produto."],
+      },
+    }],
+    default: [],
+  }
 }, schema_options);
 
 module.exports = Mongoose.model('usuario', schema);

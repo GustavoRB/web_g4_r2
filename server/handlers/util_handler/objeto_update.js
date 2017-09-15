@@ -16,9 +16,15 @@ class Objeto_update{
   }
 
   set update(update){
-    this._update = {
-      $set: update,
-    };
+    if(update.$push){
+      this._update = update
+    } else if(update.$pushAll){
+      this._update = update;
+    } else {
+      this._update = {
+        $set: update,
+      };
+    }
   }
 
   get update(){

@@ -13,7 +13,6 @@ const Banco = require('./db/Banco');
 const Login_rtc = require('./rtc/login_rtc');
 const restfuls = require('./restful/');
 const Source = require('./eventos/source');
-const RotinaCriacaoSemanasEMeses = require('./RotinaCriacaoSemanasEMeses');
 
 const Barrier = require('./authentication/Barrier').Barrier;
 
@@ -58,7 +57,6 @@ class Aplicacao extends Source{
       });
 
       this.banco = new Banco(this.config.db);
-      RotinaCriacaoSemanasEMeses.start();
     });
 
     this.app.use('/image', express.static(path.resolve(__dirname + '/image/')));

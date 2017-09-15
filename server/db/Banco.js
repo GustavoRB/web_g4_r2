@@ -2,7 +2,6 @@
 
 const Mongoose = require('mongoose');
 const Source = require('../eventos/source');
-// const Mensagem = require('../)
 
 class Banco extends Source{
 	constructor(config) {
@@ -25,9 +24,9 @@ class Banco extends Source{
 	init(config) {
 		this.mongoose.connect(`mongodb://${config.local}/${config.nome}`)
 			.then(
-				() => {
+				async () => {
 					if (config.erase_db) {
-						this.mongoose.connection.db.dropDatabase();
+						await this.mongoose.connection.db.dropDatabase();
 					}
 
 					this.managers = require('./managers/index');

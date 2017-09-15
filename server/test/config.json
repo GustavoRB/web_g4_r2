@@ -2,7 +2,7 @@
   "db": {
     "mongodb": {
       "local":"localhost",
-      "nome":"custo_de_vida",
+      "nome":"webG4R2",
       "erase_db": false
     }
   },
