@@ -4,7 +4,8 @@
 
 app.controller('fabricanteController', [
   '$scope',
-  function ($scope) {
+  '$location',
+  function ($scope, $location) {
 
     $scope.fornecedor_nome = 'Fornecedor 1';
     $scope.produtos_fabricante = [{
@@ -41,14 +42,15 @@ app.controller('fabricanteController', [
      * Salva todas as mudancas feitas pelo fornecedor
      */
     $scope.salvar = function () {
-
+      //todo salvar lista
     };
 
     /**
      * Usuario desloga do sistema
      */
     $scope.deslogar = function () {
-
+      $location.path('/');
+      location.reload();
     };
 
     //todo pegar dados do produto

@@ -2,12 +2,14 @@ body {
     background-color: darkslategray !important;
 }
 
+/*LOGIN*/
 .div-logar {
     margin-top: 3em;
 }
 h1.titulo-login{
     text-align: center;
 }
+/*LOGIN*/
 
 
 .container-fabricante, .container-login {

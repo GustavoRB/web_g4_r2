@@ -4,11 +4,11 @@
 
             <h1 class="titulo-login">Login G4R2</h1>
 
-            <div class="div-logar">
+            <div class="div-logar" ng-show="modo_logar">
                 <div class="input-group">
-                <span class="input-group-addon">
-                    <i class="glyphicon glyphicon-user"></i>
-                </span>
+                    <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-user"></i>
+                    </span>
                     <input type="text"
                            class="form-control"
                            placeholder="Login"
@@ -16,9 +16,9 @@
                 </div>
                 <br>
                 <div class="input-group">
-                <span class="input-group-addon">
-                    <i class="glyphicon glyphicon-lock"></i>
-                </span>
+                    <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-lock"></i>
+                    </span>
                     <input type="password"
                            class="form-control"
                            placeholder="Senha"
@@ -28,10 +28,51 @@
                 <button class="btn btn-success btn-lg btn-block" ng-click="logar()">
                     LOGAR
                 </button>
-                <button class="btn btn-warning btn-lg btn-block" ng-click="logar()">
+                <button class="btn btn-warning btn-lg btn-block" ng-click="toggle_menu()">
                     NÃO POSSUI CADASTRO?
                 </button>
 
+            </div>
+
+            <div class="menu-cadastro" ng-hide="modo_logar">
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-font"></i>
+                    </span>
+                    <input type="password"
+                           class="form-control"
+                           placeholder="Nome"
+                           ng-model="novo_user.nome">
+                </div>
+                <br>
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-user"></i>
+                    </span>
+                    <input type="text"
+                           class="form-control"
+                           placeholder="Login"
+                           ng-model="novo_user.login">
+                </div>
+                <br>
+                <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="glyphicon glyphicon-lock"></i>
+                    </span>
+                    <input type="password"
+                           class="form-control"
+                           placeholder="Senha"
+                           ng-model="novo_user.senha">
+                </div>
+                <br>
+
+
+                <button class="btn btn-success btn-lg btn-block" ng-click="criar_usuarios()">
+                    CADASTRAR
+                </button>
+                <button class="btn btn-warning btn-lg btn-block" ng-click="toggle_menu()">
+                    VOLTAR
+                </button>
             </div>
         </div>
     </div>
