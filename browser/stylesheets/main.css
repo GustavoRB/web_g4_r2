@@ -1,8 +1,18 @@
 body {
-    background-color: azure !important;
+    background-color: darkslategray !important;
 }
 
-.container-fabricante {
+.div-logar {
+    margin-top: 3em;
+}
+h1.titulo-login{
+    text-align: center;
+}
+
+
+.container-fabricante, .container-login {
+    min-width: 25em;
+    padding: .5em;
     margin: 5em .5em;
     background: white;
     border: 2px solid black;
@@ -23,4 +33,22 @@ div.novo-produto {
 .titulo {
     float: left;
     font-size: 1.8em;
+}
+
+input.input-produto {
+    min-width: 7em;
+}
+
+input.input-preco {
+    max-width: 10em;
+    min-width: 4em;
+}
+
+.btn-novo_produto {
+    color: white !important;
+    opacity: 0.8;
+    background-color: darkslategray;;
+}
+.btn-novo_produto:hover {
+    opacity: 1;
 }

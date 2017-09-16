@@ -44,4 +44,25 @@ app.controller('fabricanteController', [
 
     };
 
+    /**
+     * Usuario desloga do sistema
+     */
+    $scope.deslogar = function () {
+
+    };
+
+    //todo pegar dados do produto
+    // jQuery.ajax({
+    //   url: "/rest/abc",
+    //   type: "GET",
+    //   contentType: 'application/json; charset=utf-8',
+    //   success: function(ret) {
+    //     console.log('ret', ret);
+    //   },
+    //   error : function(err) {
+    //     console.log('err', err);
+    //   },
+    //   timeout: 120000,
+    // });
+
 }]);

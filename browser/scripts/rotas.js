@@ -51,9 +51,13 @@ function ConfigRotas($routeProvider) {
 
   this.wiring = ()=> {
 
+    // this.route.when('/gerencia', {
+    //   templateUrl: '../views/fabricante/fabricante.html',
+    //   controller: 'fabricanteController',
+    // });
     this.route.when('/', {
-      templateUrl: '../views/fabricante/fabricante.html',
-      controller: 'fabricanteController',
+      templateUrl: '../views/login/login.html',
+      controller: 'loginController',
     });
 
     this.listeners['setarota'] = this.setaRota.bind(this);

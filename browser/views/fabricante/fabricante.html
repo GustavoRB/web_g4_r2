@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-offset-2 col-md-8 container-fabricante">
+        <div class="col-md-offset-4 col-md-4 col-xs-offset-4 col-xs-4 container-fabricante">
 
             <div class="novo-produto">
 
@@ -10,9 +10,13 @@
                     <i class="glyphicon glyphicon-ok-circle"></i>
                     SALVAR
                 </button>
-                <button class="btn btn-warning" ng-click="novo_produto()">
+                <button class="btn btn-novo_produto" ng-click="novo_produto()">
                     <i class="glyphicon glyphicon-plus"></i>
                     NOVO PRODUTO
+                </button>
+                <button class="btn btn-warning" ng-click="deslogar()">
+                    <i class="glyphicon glyphicon-off"></i>
+                    SAIR
                 </button>
             </div>
 
@@ -40,7 +44,7 @@
                             <div class="input-group">
                                 <span class="input-group-addon">R$</span>
                                 <input type="number"
-                                       class="form-control"
+                                       class="form-control input-preco"
                                        step="0.01"
                                        min="0"
                                        placeholder="0.00"
