@@ -37,6 +37,12 @@ app.controller('fabricanteController', [
      */
     $scope.salvar = function () {
 
+      for(let index in $scope.user.produtos) {
+        if (!$scope.user.produtos.name || !$scope.user.produtos.custo) {
+          return;
+        }
+      }
+
       let data = {
         user_id: $scope.user.id,
         products: $scope.user.produtos
