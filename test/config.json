@@ -1,0 +1,21 @@
+{
+  "db": {
+    "mongodb": {
+      "local":"localhost",
+      "nome":"webG4R2",
+      "erase_db": false
+    }
+  },
+  "server": {
+    "domain":"",
+    "porta":1337,
+    "images":"",
+    "socketio": {
+    }
+  },
+  "eventConfig": {
+    "wildcard":true,
+    "newListener":true,
+    "maxListeners":2000
+  }
+}

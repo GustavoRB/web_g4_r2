@@ -32,7 +32,7 @@ class Aplicacao extends Source{
 
     this.app.set('view engine', 'ejs');
     this.app.set('views', path.resolve(__dirname + '/views'));
-    this.app.use(express['static'](path.resolve('../browser')));
+    this.app.use(express['static'](path.resolve('./browser')));
 
     this.app.use(body_parser.urlencoded({extended: true}));
     this.app.use(body_parser.json());
