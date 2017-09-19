@@ -4,7 +4,7 @@
 
             <div class="novo-produto">
 
-                <span class="titulo"><b>{{fornecedor_nome}}</b></span>
+                <span class="titulo"><b>{{user.nome}}</b></span>
 
                 <button class="btn btn-success" ng-click="salvar()">
                     <i class="glyphicon glyphicon-ok-circle"></i>
@@ -29,7 +29,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="produto in produtos_fabricante track by $index">
+                    <tr ng-repeat="produto in user.produtos track by $index">
                         <td>
                             <div class="form-group">
                                 <select class="form-control" ng-model="produto.nome">

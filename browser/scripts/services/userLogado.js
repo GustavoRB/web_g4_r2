@@ -1,24 +1,21 @@
-'[use strict]';
-
-app.value('values', {
+app.value('userLogado', {
   user: {},
 });
 
-app.factory('set', ['values', function(values) {
-  let methods = {
-    logado: function(user) {
-      values.user = user;
-      SIOM.send_to_browser('user_setado');
+app.factory('setUserLogado', ['userLogado', function(userLogado) {
+  var methods = {
+    setLogado: function(user) {
+      userLogado.user = user;
     },
   };
 
   return methods;
 }]);
 
-app.factory('get', ['values', function(values) {
-  let methods = {
-    logado: function() {
-      return values.user;
+app.factory('getUserLogado', ['userLogado', function(userLogado) {
+  var methods = {
+    getLogado: function() {
+      return userLogado.user;
     },
   };
 

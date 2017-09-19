@@ -6,7 +6,8 @@ app.controller('loginController', [
   '$scope',
   '$location',
   '$route',
-  function ($scope, $location, $route) {
+  'setUserLogado',
+  function ($scope, $location, $route, setUserLogado) {
 
     let listeners = [];
     $scope.modo_logar = true;
@@ -23,17 +24,14 @@ app.controller('loginController', [
     /**
      * Loga o usuario no sistema
      */
-    $scope.logar = function () {
-
-      // $location.path('/gerencia');
+    $scope.logar = function (login) {
       let msg = new Mensagem(
         'logar',
-        $scope.user,
+        login,
         'ret_login'
         , this
       );
       SIOM.send_to_server(msg);
-
     };
 
     /**
@@ -50,7 +48,7 @@ app.controller('loginController', [
 
       let msg = new Mensagem(
         'fabricante_create',
-        {establishment_id: this.estabelecimento_selecionado.id},
+        $scope.novo_user,
         'ret_fabricante_create'
         , this
       );
@@ -59,17 +57,29 @@ app.controller('loginController', [
     };
 
     let ret_fabricante_create = function (msg) {
-      console.log('ret_fabricante_create', msg);
+      if (msg._dados.success) {
+        let login = {
+          login: msg._dados.data[0].login,
+          senha: msg._dados.data[0].senha
+        };
+
+        $scope.logar(login);
+      }
     };
 
     let ret_login = function (msg) {
-      console.log('ret_login', msg);
+      $scope.$apply(() => {
+        if (msg._dados.success) {
+          setUserLogado.setLogado(msg._dados.data[0]);
+          $location.path('/gerencia');
+        }
+      })
     };
 
     let wiring = function () {
 
       listeners['ret_fabricante_create'] = ret_fabricante_create.bind(this);
-      listeners['logar'] = ret_login.bind(this);
+      listeners['ret_login'] = ret_login.bind(this);
 
       for (let name in listeners) {
         if (listeners.hasOwnProperty(name)) {
