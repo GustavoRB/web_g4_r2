@@ -33,10 +33,7 @@
                         <td>
                             <div class="form-group">
                                 <select class="form-control" ng-model="produto.nome">
-                                    <option>Produto 1</option>
-                                    <option>Produto 2</option>
-                                    <option>Produto 3</option>
-                                    <option>Produto 4</option>
+                                    <option ng-repeat="all_prod in produtos">{{all_prod.name}}</option>
                                 </select>
                             </div>
                         </td>

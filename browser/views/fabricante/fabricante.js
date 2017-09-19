@@ -11,6 +11,7 @@ app.controller('fabricanteController', [
 
     let listeners = [];
     $scope.user = {};
+    $scope.produtos = [];
 
     /**
      * Adiciona um produto novo ao fornecedor
@@ -92,6 +93,9 @@ app.controller('fabricanteController', [
         dataType: "json",
         success: function(ret) {
           console.log('ret', ret);
+          $scope.$apply(() => {
+            $scope.produtos = JSON.parse(ret);
+          });
         },
         error : function(err) {
           console.log('err', err);
