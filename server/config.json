@@ -7,7 +7,7 @@
   },
   "server": {
     "domain": "",
-    "porta": 80,
+    "porta": 1234,
     "images": "",
     "socketio": {}
   },
