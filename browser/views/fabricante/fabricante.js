@@ -38,7 +38,8 @@ app.controller('fabricanteController', [
     $scope.salvar = function () {
 
       for(let index in $scope.user.produtos) {
-        if (!$scope.user.produtos.name || !$scope.user.produtos.custo) {
+        if (!$scope.user.produtos[index].nome || !$scope.user.produtos[index].custo) {
+          console.log('produto incompleto', $scope.user.produtos[index]);
           return;
         }
       }
