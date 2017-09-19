@@ -84,6 +84,12 @@ app.controller('fabricanteController', [
       }
     };
 
+    let ret_request_products = function (msg) {
+      if (msg._dados.success) {
+        console.log('msg', msg);
+      }
+    };
+
 
     let ready = function () {
 
@@ -118,7 +124,7 @@ app.controller('fabricanteController', [
       let msg = new Mensagem(
         'request_products',
         $scope.novo_user,
-        'request_products'
+        'ret_request_products'
         , this
       );
       SIOM.send_to_server(msg);
@@ -129,6 +135,7 @@ app.controller('fabricanteController', [
 
       listeners['ret_product_save'] = ret_product_save.bind(this);
       listeners['ret_logout'] = ret_logout.bind(this);
+      listeners['ret_request_products'] = ret_request_products.bind(this);
 
       for (let name in listeners) {
         if (listeners.hasOwnProperty(name)) {
