@@ -90,30 +90,39 @@ app.controller('fabricanteController', [
       $scope.user = getUserLogado.getLogado();
       console.log('$scope.user ', $scope.user );
 
-      jQuery.ajax({
-        url: "https://ine5646products.herokuapp.com/api/products",
-        headers: {
-          "Access-Control-Allow-Origin": "*"
-        },
-        type: "GET",
-        dataType: "json",
-        success: function(ret) {
-          console.log('ret', ret);
-          $scope.$apply(() => {
-            $scope.produtos = JSON.parse(ret);
-          });
-        },
-        error : function(err) {
-          console.log('err', err);
-        },
-        timeout: 120000,
-      });
+      // jQuery.ajax({
+      //   url: "https://ine5646products.herokuapp.com/api/products",
+      //   headers: {
+      //     "Access-Control-Allow-Origin": "*"
+      //   },
+      //   type: "GET",
+      //   dataType: "json",
+      //   success: function(ret) {
+      //     console.log('ret', ret);
+      //     $scope.$apply(() => {
+      //       $scope.produtos = JSON.parse(ret);
+      //     });
+      //   },
+      //   error : function(err) {
+      //     console.log('err', err);
+      //   },
+      //   timeout: 120000,
+      // });
 
 
       // $.getJSON("https://ine5646products.herokuapp.com/api/products", function(ret) {
       //   //data is the JSON string
       //   console.log('ret', ret);
       // });
+
+      let msg = new Mensagem(
+        'request_products',
+        $scope.novo_user,
+        'request_products'
+        , this
+      );
+      SIOM.send_to_server(msg);
+
     };
 
     let wiring = function () {
