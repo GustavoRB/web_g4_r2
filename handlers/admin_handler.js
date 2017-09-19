@@ -8,9 +8,7 @@ class Admin_handler extends BasicHandler {
       _id: data.user_id,
     };
     let update = {
-      $pushAll: {
         produtos: data.products,
-      }
     };
     let ret = await this.emitServer('db.usuario.update', new UpdateObject(query, update));
     return {
