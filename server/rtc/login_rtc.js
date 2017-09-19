@@ -50,6 +50,7 @@ class login_rtc extends Basico {
       msg.dados = dado;
       this.trocar_rtc(msg);
     }
+
   }
 
   /**
