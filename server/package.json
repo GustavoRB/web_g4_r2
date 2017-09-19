@@ -4,6 +4,7 @@
   "description": "É o padrão de pastas e arquivos utilizadas no LabTIC.",
   "main": "index.js",
   "scripts": {
+    "web": "node index.js",
     "install": "node install.js",
     "start": "node index.js",
     "test": "mocha",
