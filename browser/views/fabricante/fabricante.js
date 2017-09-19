@@ -87,6 +87,9 @@ app.controller('fabricanteController', [
     let ret_request_products = function (msg) {
       if (msg._dados.success) {
         console.log('msg', msg);
+        $scope.$apply(() => {
+          $scope.produtos = msg._dados.data;
+        });
       }
     };
 
