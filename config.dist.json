@@ -1,0 +1,19 @@
+{
+  "db": {
+    "mongodb": {
+      "local": "localhost",
+      "nomedobanco": "nomeDoBanco"
+    }
+  },
+  "server": {
+    "domain": "",
+    "porta": 1337,
+    "images":"",
+    "socketio": {}
+  },
+  "eventConfig": {
+    "wildcard": true,
+    "newListener": true,
+    "maxListeners": 2000
+  }
+}
