@@ -12,6 +12,10 @@ app.controller('fabricanteController', [
     let listeners = [];
     $scope.user = {};
     $scope.produtos = [];
+    $scope.req_products_error = false;
+    $scope.popup = {
+      msg_error: ''
+    };
 
     /**
      * Adiciona um produto novo ao fornecedor
@@ -63,8 +67,10 @@ app.controller('fabricanteController', [
      * Usuario desloga do sistema
      */
     $scope.deslogar = function () {
+
       $location.path('/');
-      location.reload();
+      setTimeout(() => {location.reload();}, 500);
+
       let msg = new Mensagem(
         'logout',
         {},
@@ -85,45 +91,17 @@ app.controller('fabricanteController', [
       }
     };
 
-    let ret_request_products = function (msg) {
-      if (msg._dados.success) {
-        console.log('msg', msg);
-        $scope.$apply(() => {
-          $scope.produtos = msg._dados.data;
-        });
-      }
-    };
-
-
     let ready = function () {
 
       $scope.user = getUserLogado.getLogado();
+      request_products();
       console.log('$scope.user ', $scope.user );
 
-      // jQuery.ajax({
-      //   url: "https://ine5646products.herokuapp.com/api/products",
-      //   headers: {
-      //     "Access-Control-Allow-Origin": "*"
-      //   },
-      //   type: "GET",
-      //   dataType: "json",
-      //   success: function(ret) {
-      //     console.log('ret', ret);
-      //     $scope.$apply(() => {
-      //       $scope.produtos = JSON.parse(ret);
-      //     });
-      //   },
-      //   error : function(err) {
-      //     console.log('err', err);
-      //   },
-      //   timeout: 120000,
-      // });
 
 
-      // $.getJSON("https://ine5646products.herokuapp.com/api/products", function(ret) {
-      //   //data is the JSON string
-      //   console.log('ret', ret);
-      // });
+    };
+
+    let request_products = function () {
 
       let msg = new Mensagem(
         'request_products',
@@ -133,6 +111,32 @@ app.controller('fabricanteController', [
       );
       SIOM.send_to_server(msg);
 
+    };
+
+    let ret_request_products = function (msg) {
+      console.log('msg', msg);
+      $scope.$apply(() => {
+        if (msg._dados.success) {
+
+          $scope.req_products_error = false;
+          $scope.produtos = msg._dados.data;
+
+        } else if (!$scope.req_products_error) {
+
+          $scope.req_products_error = true;
+          $scope.popup.msg_error = msg._dados.data;
+          $('#popup_error').modal('show');
+
+          let retry = setInterval(() => {
+            if ($scope.req_products_error) {
+              request_products();
+            } else {
+              clearInterval(retry);
+            }
+          }, 5000);
+
+        }
+      });
     };
 
     let wiring = function () {

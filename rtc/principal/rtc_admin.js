@@ -29,17 +29,17 @@ class rtc_admin extends Basico {
 
     let url = 'https://ine5646products.herokuapp.com/api/products';
     request(url, (error, response, body) => {
-      if(error) {
+      if(error || response.statusCode === 404) {
         msg.dados = {
           success: false,
-          data: 'não foi possivel ler os produtos'
+          data: 'não foi possivel ler os produtos, tente novamente mais tarde!'
         };
-        this.emitprainterface(msg);
+      } else {
+        msg.dados = {
+          success: true,
+          data: JSON.parse(body),
+        };
       }
-      msg.dados = {
-        success: true,
-        data: JSON.parse(body),
-      };
       this.emitprainterface(msg);
     });
 

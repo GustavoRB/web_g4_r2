@@ -31,11 +31,17 @@
                 <tbody>
                     <tr ng-repeat="produto in user.produtos track by $index">
                         <td>
-                            <div class="form-group">
+
+                            <div class="form-group" ng-if="!req_products_error">
                                 <select class="form-control" ng-model="produto.nome">
                                     <option ng-repeat="all_prod in produtos">{{all_prod.name}}</option>
                                 </select>
                             </div>
+
+                            <div ng-if="req_products_error">
+                                {{produto.nome}}
+                            </div>
+
                         </td>
                         <td>
                             <div class="input-group">
@@ -56,6 +62,23 @@
                     </tr>
                 </tbody>
             </table>
+
+            <div id="popup_error" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Erro</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p>{{popup.msg_error}}</p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>
