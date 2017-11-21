@@ -81,9 +81,8 @@ app.controller('fabricanteController', [
     };
 
     let ret_product_save = function (msg) {
-      if (msg._dados.success) {
-        console.log('ret_product_save');
-      }
+      console.log('ret_product_save', msg);
+      if (msg._dados.success) {}
     };
 
     let ret_logout = function (msg) {
