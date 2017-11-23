@@ -32,7 +32,7 @@ class rtc_admin extends Basico {
       if(error || response.statusCode === 404) {
         msg.dados = {
           success: false,
-          data: 'não foi possivel ler os produtos, tente novamente mais tarde!'
+          data: 'não foi possível se conectar ao microserviço de produtos, tente novamente mais tarde!'
         };
       } else {
         msg.dados = {
